@@ -1,0 +1,205 @@
+*{
+    margin:px;
+    width: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logosection{
+    display: flex;
+    height: 6rem;
+    justify-content: space-around;
+    align-items: center;
+    border-style: outset;
+    background-color: white;
+    border-radius: 5px;
+}
+.status{
+    background-color:#ffffff;
+    border-radius: 2px;
+}
+.logo{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border-radius: 2px;
+}
+.search{
+    background-color: #ffffff;
+    border-radius: 2px;
+    width:250px
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:10px;
+    background-color: white;
+}
+#image{
+    width: 200px;
+    height: 5rem;
+}
+#searchbar{
+    width: 500px;
+    height:40px;
+    border-radius:10px;
+}
+#login{
+    height: 1rem;
+}
+#cart{
+    height: 15px;
+}
+#seller{
+    height: 15px;
+}
+#dropdown{
+    height: 20px;
+}
+.statusbar{
+    border-style: outset;
+    display: flex;
+    height: 7rem;
+    justify-content: space-around;
+    align-items: center;
+    /*background-color: red;*/
+    /*margin:10px;*/
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+#grocery{
+    height: 4rem;
+    width: 3rem;
+}
+#mobile{
+    height: 4rem;
+    width: 3rem;
+}
+#fashion{
+    height: 4rem;
+    width: 3rem;
+}
+#electronics{
+    height: 4rem;
+    width: 3rem;
+}
+#furniture{
+    height: 4rem;
+    width: 4rem;
+}
+#appliances{
+    height: 4rem;
+    width: 3rem;
+}
+#travel{
+    height: 4rem;
+    width: 3rem;
+}
+#beauty{
+    height: 4rem;
+    width: 3rem;
+}
+#vehicle{
+    height: 4rem;
+    width: 3rem;
+}
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:11rem;
+    /*background-color: red;*/
+    border-radius: 5px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding-top: 5px;
+    height: 8.5rem;
+    width: 93rem;
+    background-color: white;
+    border-radius: 5px;
+}
+#flight{
+    height: 11rem;
+    width: 100%;
+}
+.maincontainer{
+    display: flex;
+    color:black;
+    height: 25rem;
+}
+.con1{
+    background-color: white ;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+.subcon1{
+    display: flex;
+    align-items: center;
+    height: 10%;
+}
+.subcon2{
+    display: flex;
+}
+.content1{
+    display: flex;
+    color: white;
+    height: 17rem;
+    width: 20%;
+}
+#camera{
+    height: 16.5rem;
+    width: 95%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(110, 110, 110);
+}
+#keyboard{
+    height: 16.5rem;
+    width: 95%;  
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(110, 110, 110);
+}
+#powerbank{
+    height: 16.5rem;
+    width: 95%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(110, 110, 110);
+}
+#shaver{
+    height: 16.5rem;
+    width: 95%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(110, 110, 110);
+}
+#printer{
+    height: 16.5rem;
+    width: 95%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(110, 110, 110);
+}
+#monitor{
+    height: 16.5rem;
+    width: 95%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(110, 110, 110);
+}
+.div1{
+    display: flex;
+    margin-left: 350px;
+}
+#ad{
+    height: 100%;
+    width: 100%;
+    padding-bottom: 5px;
+}
